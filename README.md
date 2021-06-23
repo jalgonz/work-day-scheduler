@@ -1,7 +1,9 @@
 # Workday Scheduler
 
+## Demo
 ![A work day scheduler](./assets/calendar-gif.gif)
 
+## Description
 Project shows a day planer with time blocks.
 
 The current day is displayed at the top of the calendar.
