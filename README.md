@@ -10,10 +10,10 @@ Time blocks are color coded according to past, present or future.
 
 Clicking on a time block allows an event to be entered, and clicking the save button stores it in local storage.
 
-##Link to Deployed Application
+## Link to Deployed Application
 https://jalgonz.github.io/work-day-scheduler/
 
-##License
+## License
 MIT License
 
 Copyright (c) [year] [fullname]
